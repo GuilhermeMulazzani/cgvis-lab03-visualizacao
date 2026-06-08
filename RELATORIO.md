@@ -6,7 +6,7 @@
 
 ## Identificação
 
-- **Nome**: <mark>`Guilherme Martins Mulazzani`</mark>
+- **Nome**: <mark>Guilherme Martins Mulazzani</mark>
 - **Cartão UFRGS:** <mark>`00597915`</mark>
 
 ## Dados utilizados
