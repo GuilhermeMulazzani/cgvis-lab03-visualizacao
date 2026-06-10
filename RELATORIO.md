@@ -17,11 +17,8 @@
 > - Se houver mais de um conjunto de dados, liste todos separadamente.
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
-1. **Dataset 1**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
-2. **Dataset 2**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
-3. ...
+1. **SDSS DR17 (Sky Server)**: <mark>`http://skyserver.sdss.org/dr17/SkyServerWS/SearchTools/SqlSearch`</mark>
+    * **Descrição curta**: <mark>`O DR17 foi o último lançamento da quarta fase do SDSS, fazendo o mapeamento com dados de imagem e espectroscopia óptica e infravermelha para milhões de alvo. Esta base conta com mais de 1,2 bilhão de objetos catalogados e mais de 5,7 milhões de espectros ópticos (o que inclui mais de 2 milhões de espectros de galáxias). Para a atividade de visualização foi utilizado uma amostra fotométrica e espectroscópica de de 20 mil galáxias do universo local (redshift entre 0.02 e 0.05), incluindo magnitude (filtro r) e no índice de cor (u - r)`</mark>
 
 ## Código-fonte da visualização
 
@@ -29,8 +26,8 @@
 >
 > - Indique abaixo onde está, dentro deste repositório, o código-fonte usado para gerar a visualização.
 
-- **Arquivo principal**: <mark>`<preencher>`</mark>
-- **Arquivos complementares (se houver)**: <mark>`<preencher>`</mark>
+- **Arquivo principal**: <mark>`Lab03_visualizacao.ipynb`</mark>
+- **Arquivos complementares (se houver)**: <mark>`Nenhum`</mark>
 
 ## Imagem da visualização gerada
 
@@ -41,7 +38,7 @@
 
 <mark>`<preencher abaixo>`</mark>
 
-![Visualização resultante](imagem-da-visualizacao.png)
+![Visualização resultante](vis-galaxias.png)
 
 ## Descrição da visualização
 
