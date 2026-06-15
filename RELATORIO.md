@@ -36,8 +36,6 @@
 > - Insira aqui uma imagem da visualização criada por você. Troque `imagem-da-visualizacao.png` pelo caminho correto do arquivo no repositório. 
 > - Se você criou alguma visualização interativa, então descreva aqui como acessá-la. Por exemplo, se for uma página HTML, coloque o link, ou se for uma visualização 3D, descreva como compilar e executar o código. 
 
-<mark>`<preencher abaixo>`</mark>
-
 ![Visualização resultante](vis-galaxias.png)
 
 ## Descrição da visualização
@@ -49,7 +47,7 @@
 > - Escreva um texto curto explicando como interpretar a visualização. Descreva os elementos visuais, eixos, cores, símbolos ou interações relevantes.
 > - Este texto seria a legenda (*caption*) que acompanharia a figura em uma publicação, por exemplo.
 
-<mark>`<preencher>`</mark>
+<mark>`Gráfico de Densidade BIdimensional que demonstra a distribuição populacional de 20.000 galáxias do universo local (dados retirados do SDSS DR17). Eixo X foi utilizado como um indicador de massa estelar, com magnitude no filtro R, em escala invertida (seguindo a convenção astronômica, onde estão os com a maior luminosidade intrinsica à direita. Já no eixo Y, há o índice de cor fotométrico, que faz a graduação das galáxias jovens (Na base) a velhas (No topo). O canal de cor mapeia exclusivamente a densidade probabilítica de ocorrência dos objetos.`</mark>
 
 ### Conclusão demonstrada pela visualização
 
@@ -58,4 +56,4 @@
 > - Escreva uma conclusão curta sobre os dados com base na visualização.
 > - Explique qual insight, padrão ou tendência pode ser observado.
 
-<mark>`<preencher>`</mark>
+<mark>`Esta visualização com um modelo de densidade revela que a topografia bimodal do universo galáctico, evidenciando um pico, cor mais clara no canto inferior esquerdo, mostra uma composição de galáxias de menor massa, que contêm uma atividade de formação estelar intensa. Já espalhado pelo gráfico percebesse que as galáxias massivas estão bem mais espalahdas, mostrando que não há regra para uma galáxia ter sua formação estelar completamente interrompidaos. Este gráfico mostra, então, que a parte "despovoada" são os limites do universo local.`</mark> 
