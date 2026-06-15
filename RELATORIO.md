@@ -18,7 +18,7 @@
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
 1. **SDSS DR17 (Sky Server)**: <mark>`http://skyserver.sdss.org/dr17/SkyServerWS/SearchTools/SqlSearch`</mark>
-    * **Descrição curta**: <mark>`O DR17 foi o último lançamento da quarta fase do SDSS, fazendo o mapeamento com dados de imagem e espectroscopia óptica e infravermelha para milhões de alvo. Esta base conta com mais de 1,2 bilhão de objetos catalogados e mais de 5,7 milhões de espectros ópticos (o que inclui mais de 2 milhões de espectros de galáxias). Para a atividade de visualização foi utilizado uma amostra fotométrica e espectroscópica de de 20 mil galáxias do universo local (redshift entre 0.02 e 0.05), incluindo magnitude (filtro r) e no índice de cor (u - r)`</mark>
+    * **Descrição curta**: <mark>`O DR17 foi o último lançamento da quarta fase do SDSS, fazendo o mapeamento com dados de imagem e espectroscopia óptica e infravermelha para milhões de alvos. Esta base conta com mais de 1,2 bilhão de objetos catalogados e mais de 5,7 milhões de espectros ópticos (o que inclui mais de 2 milhões de espectros de galáxias). Para a atividade de visualização foi utilizada uma amostra fotométrica e espectroscópica de 20 mil galáxias do universo local (redshift entre 0.02 e 0.05), incluindo magnitude (filtro r) e no índice de cor (u - r)`</mark>
 
 ## Código-fonte da visualização
 
@@ -47,7 +47,7 @@
 > - Escreva um texto curto explicando como interpretar a visualização. Descreva os elementos visuais, eixos, cores, símbolos ou interações relevantes.
 > - Este texto seria a legenda (*caption*) que acompanharia a figura em uma publicação, por exemplo.
 
-<mark>`Gráfico de Densidade BIdimensional que demonstra a distribuição populacional de 20.000 galáxias do universo local (dados retirados do SDSS DR17). Eixo X foi utilizado como um indicador de massa estelar, com magnitude no filtro R, em escala invertida (seguindo a convenção astronômica, onde estão os com a maior luminosidade intrinsica à direita. Já no eixo Y, há o índice de cor fotométrico, que faz a graduação das galáxias jovens (Na base) a velhas (No topo). O canal de cor mapeia exclusivamente a densidade probabilítica de ocorrência dos objetos.`</mark>
+<mark>`Gráfico de Densidade Bidimensional da distribuição de 20.000 galáxias do universo local (SDSS DR17), no eixo X indica a massa estelar (magnitude no filtro R em escala invertida) e no eixo y há o mapeamento da transição das galáxias jovens (Base) para velhas (Espalhadas). A paleta de cores serve para refletir a densidade probabilística espacial, onde os tons claros indicam uma alta concetração populacional e tons escuros indicando zonas de baixa densidade.`</mark>
 
 ### Conclusão demonstrada pela visualização
 
@@ -56,4 +56,4 @@
 > - Escreva uma conclusão curta sobre os dados com base na visualização.
 > - Explique qual insight, padrão ou tendência pode ser observado.
 
-<mark>`Esta visualização com um modelo de densidade revela que a topografia bimodal do universo galáctico, evidenciando um pico, cor mais clara no canto inferior esquerdo, mostra uma composição de galáxias de menor massa, que contêm uma atividade de formação estelar intensa. Já espalhado pelo gráfico percebesse que as galáxias massivas estão bem mais espalahdas, mostrando que não há regra para uma galáxia ter sua formação estelar completamente interrompidaos. Este gráfico mostra, então, que a parte "despovoada" são os limites do universo local.`</mark> 
+<mark>`Esta visualização com um modelo de densidade revela que a topografia bimodal do universo galáctico, dividido em grupos de idade e atividade. O pico central presente no canto inferior mostra claramente uma concentração extrema de galáxias jovens, com menor massa e intensa atividade de formação estelar. Por outro lado, as galáxias inativas (velhas/mortas) estão distribuídas de forma muito mais espalhada em tons mais escuros, mostrando uma variabilidade maior de massa. O ponto principal que podemos tirar deste gráfico é a "zona" de baixa densidade, um local onde não há um "vazio" absoluto, mas sua população é consideravelmente reduzida se comparada aos agrupamentos principais comprova que o processo de interrupção da formação estelar é rápida, tornando  difícil observá-las neste estado de transição.`</mark> 
